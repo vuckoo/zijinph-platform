@@ -1,0 +1,47 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.zijinph.platform.rocketmq.config.RocketmqProperties",
+      "name": "rocketmq",
+      "type": "com.zijinph.platform.rocketmq.config.RocketmqProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.zijinph.platform.rocketmq.config.RocketmqProperties",
+      "name": "rocketmq.accessKey",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zijinph.platform.rocketmq.config.RocketmqProperties",
+      "name": "rocketmq.secretKey",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zijinph.platform.rocketmq.config.RocketmqProperties",
+      "name": "rocketmq.namesrvAddr",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zijinph.platform.rocketmq.config.RocketmqProperties",
+      "name": "rocketmq.producerGroupName",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zijinph.platform.rocketmq.config.RocketmqProperties",
+      "name": "rocketmq.sendMsgTimeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.zijinph.platform.rocketmq.config.RocketmqProperties",
+      "name": "rocketmq.consumerGroupName",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.zijinph.platform.rocketmq.config.RocketmqProperties",
+      "name": "rocketmq.consumerBatchMaxSize",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
